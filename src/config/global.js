@@ -1,7 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo:
+      'Determinación de especificaciones según requerimientos del producto electrónico',
+    descripcionCurso:
+      'La concepción y materialización de una idea en un producto electrónico surge mediante el proceso de identificación de oportunidades y necesidades provista por una población o un sector específico. A partir de estas especificaciones, a lo largo del proceso de desarrollo, se irán refinando hasta alcanzar el producto final. Por lo anteriormente expuesto, la claridad con la que se traducen esas oportunidades en especificaciones del producto electrónico permitirá que este sea llevado a feliz término.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -31,27 +33,32 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Documentación del desarrollo de productos electrónicos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
 
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Arquitectura de productos electrónicos',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Métodos de diseño de producto electrónicos',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Metodologías de ajustes',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Procesos en la industria electrónica',
         desarrolloContenidos: true,
       },
     ],

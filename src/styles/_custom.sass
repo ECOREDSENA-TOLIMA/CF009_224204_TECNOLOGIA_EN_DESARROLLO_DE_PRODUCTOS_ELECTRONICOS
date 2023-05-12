@@ -2,18 +2,132 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 25.3%
+    right: 60%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float1 1.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 34.2%
+    right: 13%
 
 
 @keyframes float1
   0%
-    transform: translateY(20px)
+    transform: translateX(20px)
 
   100%
-    transform: translateY(0px)
+    transform: translateX(0px)
+
+.introduccion  
+  .bloque-texto-g__img
+    width: 50%
+    @media (max-width: 992px)
+        width: 100% !important
+        height: 68%
+    @media (max-width: 767px)
+        width: 100% !important
+        height: 65%
+    @media (max-width: 350px)
+        width: 100% !important
+        height: 50%
+
+  
+
+  .bloque-texto-g__texto
+    width: 63%
+    margin-top: 2rem !important
+    margin-bottom: 2rem !important
+    padding-top: 4rem !important
+    padding-bottom: 4rem !important
+    @media (max-width: 992px)
+        width: 100% !important
+
+.tarjeta-gris  
+  background-image: url(../assets/curso/intro/img8.svg)
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: center
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  @media (max-width: 810px)
+    width: 45px
+    height: 45px
+  @media (max-width: $bp-max-sm )
+    width: 35px
+    height: 35px  
+.slyder-a__bullets__item    
+  @media (max-width: 810px)
+    width: 15px
+    height: 15px  
+    margin: 0 3px   
+  @media (max-width: $bp-max-sm)
+    width: 15px
+    height: 15px  
+    margin: 0 3px        
+
+.slyder-a
+  &__tipo-a
+    .slyder-a
+      &__bullets
+        position: absolute
+        bottom: 20px !important
+        left: 50%
+        transform: translateX(-50%)            
+
+.slyder-a__bullets__item--active
+  background-color: #3C0061 !important
+  border: 1px solid #0d0d0c
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #FFFFFF
+.slyder-a__bullets__item
+  background-color: #AC99BE
+  border: 1px solid #AC99BE  
+
+.cajon-tema1
+  position: relative
+  
+  &.color-primario
+    background-color: lighten($color-primario, 55%)
+  
+  &.color-secundario
+    background-color: lighten($color-secundario, 20%)
+  
+  &.color-acento-contenido
+    background-color: lighten($color-acento-contenido, 50%)
+  
+  &.color-acento-botones
+    background-color: lighten($color-acento-botones, 15%)
+  
+.cajon
+  position: relative
+  &:before
+    content: ''
+    display: block
+    width: 25px
+    height: 10px
+    position: absolute
+    top: 0
+    left: 0
+
+  &.color-primario
+    background-color: lighten($color-primario, 55%)
+    &:before
+      background-color: $color-primario
+  &.color-secundario
+    background-color: lighten($color-secundario, 20%)
+    &:before
+      background-color: $color-secundario
+  &.color-acento-contenido
+    background-color: lighten($color-acento-contenido, 50%)
+    &:before
+      background-color: $color-acento-contenido
+  &.color-acento-botones
+    background-color: lighten($color-acento-botones, 35%)
+    &:before
+      background-color: $color-acento-botones
+
+  
+.color-head-table
+  tr 
+    th
+      background-color: $color-primario
+      color: $white
