@@ -131,3 +131,44 @@
     th
       background-color: $color-primario
       color: $white
+
+.tarjeta-slyder-custom
+  border-radius: 20px
+  height: 100%
+
+  &.color-primario
+    background-color: lighten($color-primario, 50%)
+  
+    &--borde
+      background-color: lighten($color-primario, 50%)
+      color: textColor(lighten($color-primario, 50%))
+      border: solid 4px $color-primario
+  &.color-secundario
+    background-color: $color-secundario
+    *
+      color: textColor($color-secundario)
+    &--borde
+      background-color: lighten($color-secundario, 50%)
+      color: textColor(lighten($color-secundario, 50%))
+      border: solid 4px $color-secundario
+  &.color-acento-contenido
+    background-color: lighten($color-acento-contenido, 50%)
+    
+    &--borde
+      background-color: lighten($color-acento-contenido, 50%)
+      color: textColor(lighten($color-acento-contenido, 50%))
+      border: solid 4px $color-acento-contenido
+  &.color-acento-botones
+    background-color: $color-acento-botones
+    *
+      color: textColor($color-acento-botones)
+    &--borde
+      background-color: lighten($color-acento-botones, 50%)
+      color: textColor(lighten($color-acento-botones, 50%))
+      border: solid 4px $color-acento-botones
+
+.img-infografica__item, .img-infografica-b__item 
+    position: absolute;
+    cursor: pointer;
+    transform: translate(-50%, -50%);
+    width: 5.5%;

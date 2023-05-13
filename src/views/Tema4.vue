@@ -176,65 +176,66 @@
               td
     p(data-aos="fade-right").mb-3 Cuando se diseña un prototipo electrónico, no solo se debe tener en cuenta su funcionamiento en condiciones normales, sino también se deben tener en cuenta todos los factores que permitan proteger el producto contra cualquier falla por condiciones externas.
     p(data-aos="fade-left").mb-5 Según la IEC 60204-1, Capítulo 7, los efectos dañinos que pueden presentarse en un producto electrónico son los siguientes, ver figura 4.
-    .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-
-      SlyderF(columnas="col-lg-6 col-xl-4")
-        .tarjeta.color-acento-botones.p-4
-          .row.justify-content-center.mb-3
-            .col-8
-              img(src='@/assets/curso/temas/tema4/img3.svg' alt='AvatarTop')
-          h2.text-center FIRST
-          p.text-center moment. Abandon the shelter of insecurity. Be bold. Greatness isn’t the height of your stature, it’s the heft of your spirit.
-
-        .tarjeta.color-acento-botones.p-4
-          .row.justify-content-center.mb-3
-            .col-8
-              img(src='@/assets/curso/temas/tema4/img3.svg' alt='AvatarTop')
-          h2.text-center 2
-          p.text-center moment. Abandon the shelter of insecurity. Be bold. Greatness isn’t the height of your stature, it’s the heft of your spirit.
-
-        .tarjeta.color-acento-botones.p-4
-          .row.justify-content-center.mb-3
-            .col-8
-              img(src='@/assets/curso/temas/tema4/img3.svg' alt='AvatarTop')
-          h2.text-center 3
-          p.text-center moment. Abandon the shelter of insecurity. Be bold. Greatness isn’t the height of your stature, it’s the heft of your spirit.
-
-        .tarjeta.color-acento-botones.p-4
-          .row.justify-content-center.mb-3
-            .col-8
-              img(src='@/assets/curso/temas/tema4/img3.svg' alt='AvatarTop')
-          h2.text-center 4
-          p.text-center moment. Abandon the shelter of insecurity. Be bold. Greatness isn’t the height of your stature, it’s the heft of your spirit.
-
-        .tarjeta.color-acento-botones.p-4
-          .row.justify-content-center.mb-3
-            .col-8
-              img(src='@/assets/curso/temas/tema4/img3.svg' alt='AvatarTop')
-          h2.text-center 5
-          p.text-center moment. Abandon the shelter of insecurity. Be bold. Greatness isn’t the height of your stature, it’s the heft of your spirit.
-
-        .tarjeta.color-acento-botones.p-4
-          .row.justify-content-center.mb-3
-            .col-8
-              img(src='@/assets/curso/temas/tema4/img3.svg' alt='AvatarTop')
-          h2.text-center 6
-          p.text-center moment. Abandon the shelter of insecurity. Be bold. Greatness isn’t the height of your stature, it’s the heft of your spirit.
-
-        .tarjeta.color-acento-botones.p-4
-          .row.justify-content-center.mb-3
-            .col-8
-              img(src='@/assets/curso/temas/tema4/img3.svg' alt='AvatarTop')
-          h2.text-center 7
-          p.text-center moment. Abandon the shelter of insecurity. Be bold. Greatness isn’t the height of your stature, it’s the heft of your spirit.
-
-        .tarjeta.color-acento-botones.p-4
-          .row.justify-content-center.mb-3
-            .col-8
-              img(src='@/assets/curso/temas/tema4/img3.svg' alt='AvatarTop')
-          h2.text-center LAST
-          p.text-center moment. Abandon the shelter of insecurity. Be bold. Greatness isn’t the height of your stature, it’s the heft of your spirit.
     
+    .titulo-sexto.color-acento-contenido.mb-3
+      h5 Figura 4
+      span  Efectos dañinos
+
+    .row.justify-content-center
+      .col-lg-4
+        figure(data-aos="zoom-in")
+          img(src="@/assets/curso/temas/tema4/img7.png", alt="alt").img400.m-auto
+      .col-lg-8.mt-5
+
+        SlyderF.custom.mb-5(columnas="col-lg-6 col-xl-4").mt-5
+          .tarjeta-slyder-custom.color-primario.p-4
+            .row.justify-content-center.mb-3
+              .col-8
+                img(src="@/assets/curso/temas/tema4/img8.svg", alt="alt").img100.m-auto
+            p.text-center.mb-0 Sobrecorriente derivada de un cortocircuito o motor sobrecargado
+
+          .tarjeta-slyder-custom.color-primario.p-4
+            .row.justify-content-center.mb-3
+              .col-8
+                img(src="@/assets/curso/temas/tema4/img9.svg", alt="alt").img100.m-auto
+            p.text-center.mb-0 Pérdida de enfriamiento de motores
+
+          .tarjeta-slyder-custom.color-primario.p-4
+            .row.justify-content-center.mb-3
+              .col-8
+                img(src="@/assets/curso/temas/tema4/img10.svg", alt="alt").img100.m-auto
+            p.text-center.mb-0 Cambios de temperatura
+
+          .tarjeta-slyder-custom.color-primario.p-4
+            .row.justify-content-center.mb-3
+              .col-8
+                img(src="@/assets/curso/temas/tema4/img11.svg", alt="alt").img100.m-auto
+            p.text-center.mb-0 Pérdida o reducción del voltaje de alimentación
+
+          .tarjeta-slyder-custom.color-primario.p-4
+            .row.justify-content-center.mb-3
+              .col-8
+                img(src="@/assets/curso/temas/tema4/img12.svg", alt="alt").img100.m-auto
+            p.text-center.mb-0 Sobrevelocidad de los equipos o elementos del equipo
+          
+          .tarjeta-slyder-custom.color-primario.p-4
+            .row.justify-content-center.mb-3
+              .col-8
+                img(src="@/assets/curso/temas/tema4/img13.svg", alt="alt").img100.m-auto
+            p.text-center.mb-0 Falla de la conexión a tierra o corriente residual
+
+          .tarjeta-slyder-custom.color-primario.p-4
+            .row.justify-content-center.mb-3
+              .col-8
+                img(src="@/assets/curso/temas/tema4/img14.svg", alt="alt").img100.m-auto
+            p.text-center.mb-0 Conexión incorrecta de las fases eléctricas
+
+          .tarjeta-slyder-custom.color-primario.p-4
+            .row.justify-content-center.mb-3
+              .col-8
+                img(src="@/assets/curso/temas/tema4/img15.svg", alt="alt").img100.m-auto
+            p.text-center.mb-0 Sobretensiones debidas a rayos y conmutaciones
+   
     p(data-aos="fade-right").mb-3 Para realizar una valoración cualitativa se puede evaluar y analizar la tecnología y sus resultados de un modo general; o de un modo más específico, como ejemplo se puede citar el modelo que presenta el libro “Metodología de evaluación de prototipo innovador” el cual se puede observar en la figura 5.
     .row.justify-content-center.align-items-center
       .col-lg-8(data-aos="fade-up")
@@ -261,7 +262,7 @@
           
       .col-3(data-aos="zoom-in")
         figure
-          img(src="@/assets/curso/temas/tema4/img5.svg", alt="alt", style="width:450px;").m-auto
+          img(src="@/assets/curso/temas/tema4/img5.png", alt="alt", style="width:450px;").m-auto
     p(data-aos="fade-right").mb-3.mt-5 Otro método cualitativo de valoración de un prototipo electrónico, de acuerdo con Sarraipa, J., Artífcie, A, Jiménez, H. (2019), es el creado en el Tamarack Institute en Canadá en el año 2019; el cual consta de cinco pasos importantes, ver figura 6.
     .row.justify-content-center.align-items-center
       .col-lg-12(data-aos="zoom-out")
