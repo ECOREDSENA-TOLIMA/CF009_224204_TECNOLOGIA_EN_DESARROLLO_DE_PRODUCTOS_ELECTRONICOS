@@ -118,12 +118,19 @@ export default {
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: '<em>Know how</em>',
+      significado:
+        'Es un conjunto de conocimientos técnicos y administrativos que son indispensables para conducir un proceso comercial y que no están protegidos por una patente, pero son determinantes para el éxito comercial de una empresa. ',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: '<em>Marketing</em>',
+      significado:
+        'Es la ciencia y el arte de explorar, crear y entregar valor para satisfacer necesidades de un mercado objetivo con lucro. ',
+    },
+    {
+      termino: 'Metodología',
+      significado:
+        'Hace referencia al conjunto de procedimientos racionales utilizados para alcanzar el objetivo o la gama de objetivos que rige una investigación científica. ',
     },
   ],
   referencias: [

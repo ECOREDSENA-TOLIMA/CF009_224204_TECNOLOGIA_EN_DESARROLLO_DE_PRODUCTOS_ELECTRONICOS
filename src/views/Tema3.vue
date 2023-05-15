@@ -9,7 +9,7 @@
     p(data-aos="fade-down").mb-5 El desarrollo de un producto electrónico debe entenderse como la realización de un proyecto investigativo y como tal debe plantearse teniendo en cuenta una metodología clara que permita identificar un problema o necesidad a solucionar, mediante el planteamiento de objetivos que fijarán la meta y el resultado final del proyecto, tal como se presenta en la figura 3.
     
     .titulo-sexto.color-acento-contenido.mb-3
-      h5(data-aos="fade-left") Figura 3. Metodología para el desarrollo de un producto, 16pt
+      h5(data-aos="fade-left") Figura 3. Metodología para el desarrollo de un producto
           
     figure
       img(src='@/assets/curso/temas/tema3/img1.png', alt='Metodología para el desarrollo de un producto')

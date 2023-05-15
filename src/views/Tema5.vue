@@ -76,6 +76,14 @@
             .col-lg-11
               p(data-aos="fade-up").mb-3.p-2 Dicho esto, un producto electrónico siempre llevará al análisis de garantías, funcionamiento y rentabilidad en el mercado.
 
+    p(data-aos="fade-left").mb-3.mt-5 Entre la finalidad que se busca de la vigilancia tecnológica, será necesario evaluar permanentemente entre otros factores los siguientes, ver figura 8:
+
+    .titulo-sexto.color-acento-contenido.mb-3
+      h5(data-aos="fade-left")  Figura 8 Factores a evaluar
+          
+    figure
+      img(src='@/assets/curso/temas/tema5/img5.png', alt='Factores a evaluar')
+
     
   
 </template>
