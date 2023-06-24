@@ -16,6 +16,11 @@
       .col 
         p(data-aos="fade-left").mb-0 Durante todo el proceso de desarrollo de un producto electrónico, además de las tareas técnicas involucradas, existe de por medio un elemento fundamental llamado documentación, el cual juega un papel muy importante ya que permite tener el control de la información que se genera en cada etapa del proceso, al mismo tiempo que sirve de soporte literario y gráfico cuando se requiere (manuales de usuario, documentos de ensamble, dibujo mecánico, entre otros).
         br
+    
+    .row.mb-3
+      .titulo-sexto.color-acento-contenido.mb-3.offset-lg-2(data-aos="fade-left")
+        p.titulo.pb-0.mb-0 <b>Figura 1.</b> <i>Importancia de la gestión de información empresarial</i>
+    
     .row.justify-content-center.align-items-center.py-0.mb-5(data-aos="fade-right")
       .col-lg-12.col-12.bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
         .bloque-texto-g__img(

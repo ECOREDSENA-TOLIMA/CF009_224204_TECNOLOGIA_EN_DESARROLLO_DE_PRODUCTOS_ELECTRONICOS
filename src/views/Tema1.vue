@@ -6,15 +6,21 @@
       .titulo-principal__numero
         span 1
       h1 Documentación del desarrollo de productos electrónicos 
-    p(data-aos="fade-down").mb-5 El desarrollo de cualquier producto involucra a un equipo de trabajo interdisciplinario organizado de tal forma que participen en las diferentes etapas de concepción, diseño, fabricación y producción. Es así como, por cada etapa se genera la documentación respectiva necesaria para llevar a buen término la materialización de una idea.
+    p(data-aos="fade-down").mb-3 El desarrollo de cualquier producto involucra a un equipo de trabajo interdisciplinario organizado de tal forma que participen en las diferentes etapas de concepción, diseño, fabricación y producción. Es así como, por cada etapa se genera la documentación respectiva necesaria para llevar a buen término la materialización de una idea.
     .cajon-tema1.color-acento-botones.p-4.p-md-5.mb-5(data-aos="fade-right")
       .row.justify-content-around.align-items-center
         .col-sm-1
           img(src="@/assets/curso/temas/tema1/img1.svg")
 
         .col-lg-11
-          p(data-aos="fade-up").mb-4 La documentación es la evidencia tangible y el insumo primario que sirve de referencia y base para el desarrollo de futuros productos además de permitir la trazabilidad, el control de versiones y modificaciones del producto que sean necesarias.
-    p(data-aos="fade-down").mb-5 A través de la documentación se consignan datos e información relevante del proyecto, tales como la elaboración de: cálculos, diagramas eléctricos y electrónicos, lista de materiales (BOM list), entre otras. Esta misma información puede ser insumo para la elaboración de otra documentación como por ejemplo los manuales de usuario y de servicio técnico, que respaldan la finalidad prevista del producto electrónico elaborado.
+          p(data-aos="fade-up").mb-3 La documentación es la evidencia tangible y el insumo primario que sirve de referencia y base para el desarrollo de futuros productos además de permitir la trazabilidad, el control de versiones y modificaciones del producto que sean necesarias.
+    p(data-aos="fade-down").mb-3 A través de la documentación se consignan datos e información relevante del proyecto, tales como la elaboración de: cálculos, diagramas eléctricos y electrónicos, lista de materiales (BOM list), entre otras. Esta misma información puede ser insumo para la elaboración de otra documentación como por ejemplo los manuales de usuario y de servicio técnico, que respaldan la finalidad prevista del producto electrónico elaborado.
+    
+    .row.mb-3
+      .titulo-sexto.color-acento-contenido.mb-3.offset-lg-2(data-aos="fade-left")
+        p.titulo.pb-0.mb-0 <b>Figura 2.</b> <i>Uso de encuestas en el desarrollo de productos</i>
+    
+    
     .row.justify-content-center.align-items-center.py-0.mb-5(data-aos="fade-right")
       .col-lg-12.col-12.bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
         .bloque-texto-g__img(
@@ -70,7 +76,7 @@
     .row.justify-content-center.align-items-center
       .col-lg-10(data-aos="fade-down")
         .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 1. Procedimiento de definición de requerimientos
+          h5 Figura 3. Procedimiento de definición de requerimientos
         figure
           img(src='@/assets/curso/temas/tema1/img3.jpg', alt='Procedimiento para definición de requerimientos')
 </template>

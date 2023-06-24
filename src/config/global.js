@@ -104,16 +104,19 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Metodología de evaluación de un prototipo innovador',
+      referencia:
+        'Sarraipa, J., Artífcie, A, Jiménez, H. (2019). Metodología De Evaluación De Prototipo Innovador. ACACIA. ',
+      tipo: 'Libro',
+      link:
+        'https://acacia.red/wp-content/uploads/2019/07/Gu%C3%ADa-Metodologi%CC%81a-de-evaluaci%C3%B3n-de-prototipo-innovador.pdf',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Diseño y desarrollo de productos',
+      referencia:
+        'Ulrich, K. T.,   Eppinger, S. D.(2013). Diseño y desarrollo de productos. McGraw-Hill. https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=281',
+      tipo: 'Libro',
+      link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=281',
     },
   ],
   glosario: [
@@ -135,8 +138,19 @@ export default {
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Microensamble. (2014). Ventajas de usar circuitos multicapas. [Imagen]',
+      link: 'http://microensamble.com/ventajas-de-usar-circuitos-multicapa/',
+    },
+    {
+      referencia:
+        'Sarraipa, J., Artífcie, A, Jiménez, H. (2019). Metodología de Evaluación de Prototipo Innovador.',
       link: '',
+    },
+    {
+      referencia:
+        'Ulrich, K. T.,   Eppinger, S. D.(2013). Diseño y desarrollo de productos. McGraw-Hill.',
+      link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=281',
     },
   ],
   creditos: [
@@ -149,9 +163,9 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Norma Constanza Morales Cruz',
           cargo: 'Responsable de línea de producción',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },
@@ -159,9 +173,37 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Nombre centro de formación',
+          nombre: 'Ángela Rocío Sánchez Ruíz ',
+          cargo: 'Experto Técnico ',
+          centro:
+            'Regional Distrito Capital Centro de Electricidad,  Electrónica y Telecomunicaciones. ',
+        },
+        {
+          nombre: 'Miroslava González Hernández ',
+          cargo: 'Diseñador y evaluador instruccional ',
+          centro: 'Regional Distrito Capital Centro de Gestión Industrial ',
+        },
+        {
+          nombre: 'Sergio Augusto Ardila Cortes',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes ',
+          cargo:
+            'Responsable equipo de Desarrollo Curricular Ecosistema de Recursos Educativos Digitales ',
+          centro:
+            'Regional Santander Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Jhon Jairo Rodríguez Pérez ',
+          cargo: 'Corrector de estilo ',
+          centro: 'Regional Distrito Capital Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Viviana Esperanza Herrera Qiñonez',
+          cargo: 'Asesora Metodológica',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },
@@ -169,19 +211,34 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador web',
-          centro: 'Nombre centro de formación',
+          nombre: 'José Jaime Luis Tang Pinzón',
+          cargo: 'Diseñador Web',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Sebastian Trujillo Afanador',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Nombre centro de formación',
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          cargo: 'Storyboard e Ilustración',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Nelson Iván Vera Briceño',
+          cargo: 'Producción audiovisual',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Oleg Litvin',
+          cargo: 'Animador ',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Francisco Javier Vásquez Suárez',
+          cargo: 'Actividad Didáctica',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },
@@ -189,14 +246,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre validador',
+          nombre: 'Javier Mauricio Oviedo',
           cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Nombre centro formación',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre validador',
+          nombre: 'Gilberto Naranjo Farfán',
           cargo: 'Validación de contenidos accesibles',
-          centro: 'Nombre centro formación',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },

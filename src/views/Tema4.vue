@@ -7,26 +7,25 @@
         span 4
       h1 Metodologías de ajustes
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-6
+    .row.justify-content-center.align-items-center.mb-3
+      .col-lg-5
         figure
-         img(src="@/assets/curso/temas/tema4/img1.svg", alt="alt")
-      .col-lg-6
+         img(src="@/assets/curso/temas/tema4/img1.png", alt="alt")
+      .col-lg-7
         .row.crd.p-4.mb-4.cajon-tema1.color-acento-contenido
-          p.mb-0 A nivel general, las tarjetas de circuito impreso como producto final, requieren actividades de verificación, valoración y pruebas de funcionalidad de cada uno de sus componentes y subsistemas, que garanticen la calidad y el correcto funcionamiento, conforme a los parámetros establecidos desde su diseño; como por ejemplo, la seguridad eléctrica, riesgos ante daños mecánicos, físicos, en caso de incendio, compatibilidad electromagnética y todos los factores que influyen en el mismo y la construcción de productos electrónicos. Dichas actividades, permiten, además, evaluar las alternativas de diseño utilizadas, de tal manera que se optimicen los procesos.
+          p.mb-0.text-small A nivel general, las tarjetas de circuito impreso como producto final, requieren actividades de verificación, valoración y pruebas de funcionalidad de cada uno de sus componentes y subsistemas, que garanticen la calidad y el correcto funcionamiento, conforme a los parámetros establecidos desde su diseño; como por ejemplo, la seguridad eléctrica, riesgos ante daños mecánicos, físicos, en caso de incendio, compatibilidad electromagnética y todos los factores que influyen en el mismo y la construcción de productos electrónicos. Dichas actividades, permiten, además, evaluar las alternativas de diseño utilizadas, de tal manera que se optimicen los procesos.
         .cajon
           .row.justify-content-around.align-items-center
             .col-sm-2
               img(src="@/assets/curso/temas/tema4/img2.svg")
             .col-sm-10
-              p(data-aos="fade-up") Una vez se hayan realizado los ajustes al concepto inicial del producto a través del análisis, la verificación y validación, se definen las especificaciones finales del producto a desarrollar y se inicia con las demás actividades, que forman parte de la maduración del concepto en el desarrollo de un producto electrónico.
+              p.mb-0.text-small(data-aos="fade-up") Una vez se hayan realizado los ajustes al concepto inicial del producto a través del análisis, la verificación y validación, se definen las especificaciones finales del producto a desarrollar y se inicia con las demás actividades, que forman parte de la maduración del concepto en el desarrollo de un producto electrónico.
       
-      .col-12.titulo-sexto.color-acento-contenido.mt-5
+      .col-12.titulo-sexto.color-acento-contenido.mt-5.offset-lg-2
         p.titulo.pb-0.mb-0 <b>Tabla 1.</b> Formato modelo de evaluación cuantitativa
       .tabla-c.color-primario(data-aos="fade-down")
       
         table
-          caption Nota. Adaptada de de Sarraipa, J., Artífcie, A, Jiménez, H. (2019).
           thead.color-head-table
             tr
               th 1. Estado de desarrollo
@@ -174,17 +173,18 @@
               td Barreras de entrada
               td
               td
+      figcaption Nota. Adaptada de de Sarraipa, J., Artífcie, A, Jiménez, H. (2019). 
     p(data-aos="fade-right").mb-3 Cuando se diseña un prototipo electrónico, no solo se debe tener en cuenta su funcionamiento en condiciones normales, sino también se deben tener en cuenta todos los factores que permitan proteger el producto contra cualquier falla por condiciones externas.
-    p(data-aos="fade-left").mb-5 Según la IEC 60204-1, Capítulo 7, los efectos dañinos que pueden presentarse en un producto electrónico son los siguientes, ver figura 4.
+    p(data-aos="fade-left").mb-3 Según la IEC 60204-1, Capítulo 7, los efectos dañinos que pueden presentarse en un producto electrónico son los siguientes, ver figura 4.
     
-    .titulo-sexto.color-acento-contenido.mb-3
-      h5 Figura 4
-      span  Efectos dañinos
-
-    .row.justify-content-center
+    .row.mb-3.mt-3
+      .titulo-sexto.color-acento-contenido.mb-3.offset-lg-2(data-aos="fade-left")
+        p.titulo.pb-0.mb-0 <b>Figura 10.</b> <i>Efectos dañinos</i>
+        
+    .row.justify-content-center.mb-3
       .col-lg-4
         figure(data-aos="zoom-in")
-          img(src="@/assets/curso/temas/tema4/img7.png", alt="alt").img400.m-auto
+          img(src="@/assets/curso/temas/tema4/img7.svg", alt="alt").img400.m-auto
       .col-lg-8.mt-5
 
         SlyderF.custom.mb-5(columnas="col-lg-6 col-xl-4").mt-5
@@ -237,16 +237,19 @@
             p.text-center.mb-0 Sobretensiones debidas a rayos y conmutaciones
    
     p(data-aos="fade-right").mb-3 Para realizar una valoración cualitativa se puede evaluar y analizar la tecnología y sus resultados de un modo general; o de un modo más específico, como ejemplo se puede citar el modelo que presenta el libro “Metodología de evaluación de prototipo innovador” el cual se puede observar en la figura 5.
-    .row.justify-content-center.align-items-center
-      .col-lg-8(data-aos="fade-up")
-        .titulo-sexto.color-acento-contenido.mb-3
-          h5  Figura 5 Metodología de evaluación de un producto innovador
-        figure
-          img(src='@/assets/curso/temas/tema4/img4.png', alt='Metodología de evaluación de un producto innovador')
-          figcaption Adaptado de Sarraipa, J., Artífcie, A, Jiménez, H. (2019).
+    
+    .row.mb-3.mt-3
+      .titulo-sexto.color-acento-contenido.mb-3.offset-lg-2(data-aos="fade-left")
+        p.titulo.pb-0.mb-0 <b>Figura 11.</b> <i>Metodología de evaluación de un producto innovador</i>
+        
+      .row.justify-content-center.align-items-center 
+        .col-lg-8
+          figure
+            img(src='@/assets/curso/temas/tema4/img4.svg', alt='Metodología de evaluación de un producto innovador')
+            figcaption Adaptado de Sarraipa, J., Artífcie, A, Jiménez, H. (2019).
 
-    .row.justify-content-center.mt-5
-      .col-7
+    .row.justify-content-center.align-items-center.mt-5
+      .col-6
             p Este es un método empleado por la Nasa desde 1986, en el cual sobresalen 3 factores:
             ul.lista-ul--color.ps-3
               li
@@ -260,18 +263,19 @@
                 | Evaluar las alternativas.
             p En este proceso se hace necesaria la participación de varios expertos, que realizarán su apreciación individual de cada uno de los criterios, dados por los objetivos de diseño; con el fin de señalar un consenso que permita definir mejor la ruta de diseño, implementación y obtención de resultados.
           
-      .col-3(data-aos="zoom-in")
+      .col-4(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/tema4/img5.png", alt="alt", style="width:450px;").m-auto
     p(data-aos="fade-right").mb-3.mt-5 Otro método cualitativo de valoración de un prototipo electrónico, de acuerdo con Sarraipa, J., Artífcie, A, Jiménez, H. (2019), es el creado en el Tamarack Institute en Canadá en el año 2019; el cual consta de cinco pasos importantes, ver figura 6.
-    .row.justify-content-center.align-items-center
-      .col-lg-12(data-aos="zoom-out")
-        .titulo-sexto.color-acento-contenido.mb-3
-          h5   Figura 6 Método cualitativo de Tamarack Institute Canadá
-        figure
-          img(src='@/assets/curso/temas/tema4/img6.png', alt='Método cualitativo de Tamarack Institute Canadá')
+    
+    .row.mb-3.mt-3.justify-content-center.align-items-center
+      .titulo-sexto.color-acento-contenido.mb-3.offset-lg-2(data-aos="fade-left")
+        p.titulo.pb-0.mb-0 <b>Figura 12.</b> <i>Método cualitativo de Tamarack Institute Canadá</i>
 
-
+      figure
+        img(src='@/assets/curso/temas/tema4/img6.svg', alt='Método cualitativo de Tamarack Institute Canadá')
+    
+    
 </template>
 
 <script>
