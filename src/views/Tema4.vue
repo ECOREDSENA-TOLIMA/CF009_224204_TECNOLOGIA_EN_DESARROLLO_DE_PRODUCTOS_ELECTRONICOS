@@ -92,7 +92,7 @@
               td
               td
             tr
-              td Puntaje Mercado y Aplicación
+              td Puntaje mercado y aplicación
               td
               td
           thead.color-head-table
@@ -102,7 +102,7 @@
               th Observaciones  
             tbody
             tr
-              td Interés del Inventor
+              td Interés del inventor
               td 
               td 
             tr
@@ -110,7 +110,7 @@
               td 
               td 
             tr
-              td Disponibilidad Inventor
+              td Disponibilidad inventor
               td
               td
             tr 
@@ -144,7 +144,7 @@
               td
               td
             tr
-              td Puntaje Estado de la técnica
+              td Puntaje estado de la técnica
               td
               td
           thead.color-head-table
@@ -175,7 +175,7 @@
               td
       figcaption Nota. Adaptada de de Sarraipa, J., Artífcie, A, Jiménez, H. (2019). 
     p(data-aos="fade-right").mb-3 Cuando se diseña un prototipo electrónico, no solo se debe tener en cuenta su funcionamiento en condiciones normales, sino también se deben tener en cuenta todos los factores que permitan proteger el producto contra cualquier falla por condiciones externas.
-    p(data-aos="fade-left").mb-3 Según la IEC 60204-1, Capítulo 7, los efectos dañinos que pueden presentarse en un producto electrónico son los siguientes, ver figura 4.
+    p(data-aos="fade-left").mb-3 Según la IEC 60204-1, Capítulo 7, los efectos dañinos que pueden presentarse en un producto electrónico son los siguientes, ver figura 10.
     
     .row.mb-3.mt-3
       .titulo-sexto.color-acento-contenido.mb-3.offset-lg-2(data-aos="fade-left")
@@ -236,7 +236,7 @@
                 img(src="@/assets/curso/temas/tema4/img15.svg", alt="alt").img100.m-auto
             p.text-center.mb-0 Sobretensiones debidas a rayos y conmutaciones
    
-    p(data-aos="fade-right").mb-3 Para realizar una valoración cualitativa se puede evaluar y analizar la tecnología y sus resultados de un modo general; o de un modo más específico, como ejemplo se puede citar el modelo que presenta el libro “Metodología de evaluación de prototipo innovador” el cual se puede observar en la figura 5.
+    p(data-aos="fade-right").mb-3 Para realizar una valoración cualitativa se puede evaluar y analizar la tecnología y sus resultados de un modo general; o de un modo más específico, como ejemplo se puede citar el modelo que presenta el libro “Metodología de evaluación de prototipo innovador” el cual se puede observar en la figura 11.
     
     .row.mb-3.mt-3
       .titulo-sexto.color-acento-contenido.mb-3.offset-lg-2(data-aos="fade-left")

@@ -17,11 +17,11 @@
                 | Producción de componentes activos y pasivos.
               li
                 i.fas.fa-angle-right.txt
-                | Producción de software.
+                | Producción de <em>software</em>.
               li
                 i.fas.fa-angle-right.txt
                 | Producción de productos electrónicos terminados.
-            p Para el caso de los diseñadores de productos electrónicos, es importante tener en cuenta la siguiente ficha de marketing propuesta por Sarraipa, J., Artífcie, A, Jiménez, H. (2019), en el documento “metodología de evaluación de prototipo innovador”, ver figura 7.
+            p Para el caso de los diseñadores de productos electrónicos, es importante tener en cuenta la siguiente ficha de <em>marketing</em> propuesta por Sarraipa, J., Artífcie, A, Jiménez, H. (2019), en el documento “metodología de evaluación de prototipo innovador”, ver figura 13.
           
       .col-5(data-aos="zoom-in")
         figure
@@ -58,8 +58,8 @@
             .h5.mb-2 Beneficios
             p Es necesario redactar el problema u oportunidad que soluciona o aprovecha el prototipo innovador, planteando un contexto breve y destacando los problemas/ dificultades de las principales soluciones que aborden el problema o en el caso de la oportunidad, la magnitud de la brecha existente. Es necesario dejar claro el tamaño del problema u oportunidad que se quiere explotar.
 
-    p(data-aos="fade-right").mb-3.mt-3 La miniaturización cada vez más de los sistemas electrónicos debido a su alta escala de integración, y lo complejo que puede resultar el desarrollo de un producto electrónico, ha supuesto que en los procesos de manufactura sea indispensable el uso de herramientas de software y hardware cada vez más robustas y precisas.
-    p(data-aos="fade-left").mb-3.mt-3 Por tal razón las herramientas CAD/CAM han evolucionado a tal punto que muchos procesos tradicionales de manufactura de productos electrónicos se hayan automatizado; una tarea que antes hacía un operario de forma manual ahora la realiza con ayuda de un software o una máquina.
+    p(data-aos="fade-right").mb-3.mt-3 La miniaturización cada vez más de los sistemas electrónicos debido a su alta escala de integración, y lo complejo que puede resultar el desarrollo de un producto electrónico, ha supuesto que en los procesos de manufactura sea indispensable el uso de herramientas de <em>software</em> y <em>hardware</em> cada vez más robustas y precisas.
+    p(data-aos="fade-left").mb-3.mt-3 Por tal razón las herramientas CAD/CAM han evolucionado a tal punto que muchos procesos tradicionales de manufactura de productos electrónicos se hayan automatizado; una tarea que antes hacía un operario de forma manual ahora la realiza con ayuda de un <em>software</em> o una máquina.
 
     .row.mb-3.mt-3
       .titulo-sexto.color-acento-contenido.mb-3.offset-lg-2(data-aos="fade-left")

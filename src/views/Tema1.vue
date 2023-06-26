@@ -29,7 +29,7 @@
         .bloque-texto-g__texto.p-4
           p.mb-0 Las encuestas son un tipo de documentación que permite establecer oportunidades mediante la recolección de información e identificación de necesidades latentes en el mercado para el desarrollo de un nuevo producto.
     
-    p.mb-0 Dentro de la documentación técnica generada en el desarrollo de productos electrónicos se destacan los derivados de la etapa de diseño y producción; planos esquemáticos, lista de materiales, dibujo mecánico, archivos de fabricación electrónica y mecánica, archivos de ensamble electrónico y mecánico entre otros. La elaboración de esta documentación se realiza mediante software especializado CAD/CAM que facilita el proceso. A continuación se explica brevemente la documentación técnica más relevante en procesos de desarrollo de productos electrónicos.
+    p.mb-0 Dentro de la documentación técnica generada en el desarrollo de productos electrónicos se destacan los derivados de la etapa de diseño y producción; planos esquemáticos, lista de materiales, dibujo mecánico, archivos de fabricación electrónica y mecánica, archivos de ensamble electrónico y mecánico entre otros. La elaboración de esta documentación se realiza mediante <em>software</em> especializado CAD/CAM que facilita el proceso. A continuación se explica brevemente la documentación técnica más relevante en procesos de desarrollo de productos electrónicos.
     br
     TabsA.color-acento-contenido(data-aos="fade-right")
             .tarjeta.color-acento-contenido--borde.p-5(titulo="Orden de trabajo")
@@ -48,17 +48,17 @@
               h3 Lista de materiales (BOM list)
               p.mb-0 La lista de materiales electrónicos es un documento técnico necesario para el ensamble de la tarjeta electrónica; sirve además de insumo para la compra de los materiales.
               br
-              p.mb-0 Se elaboran mediante un software de diseño asistido por computador o mediante registro manual. En el documento se describen los consecutivos, las cantidades y las características de cada componente electrónico necesario para el correcto funcionamiento de la tarjeta electrónica.
+              p.mb-0 Se elaboran mediante un <em>software</em> de diseño asistido por computador o mediante registro manual. En el documento se describen los consecutivos, las cantidades y las características de cada componente electrónico necesario para el correcto funcionamiento de la tarjeta electrónica.
             .tarjeta.color-acento-contenido--borde.p-4(titulo="Geber files (Archivos de fabricación)")
-              h3 Geber files (Archivos de fabricación)
-              p.mb-0 Son documentos que contienen los artes gráficos necesarios para la fabricación de la placa de circuito impreso, incluyen el trazado de pistas eléctricas y los footprints de los componentes electrónicos.
+              h3 <em>Geber files</em> (Archivos de fabricación)
+              p.mb-0 Son documentos que contienen los artes gráficos necesarios para la fabricación de la placa de circuito impreso, incluyen el trazado de pistas eléctricas y los <em>footprints</em> de los componentes electrónicos.
               br
-              p.mb-0 Se elaboran mediante un software de diseño asistido por computador.
+              p.mb-0 Se elaboran mediante un <em>software</em> de diseño asistido por computador.
             .tarjeta.color-acento-contenido--borde.p-4(titulo="Planos Mecánicos")
-              h3 Planos Mecánicos
+              h3 Planos mecánicos
               p.mb-0 Son documentos técnicos de la pieza diseñada, como por ejemplo la documentación gráfica necesaria para la fabricación de los elementos mecánicos en máquinas de control numérico y centros de mecanizado; adicionalmente, forma parte de dicha documentación técnica los planos de despiece y ensamble, planos de vistas 2D y 3D.
               br
-              p.mb-0 Se elaboran mediante software asistido por computador y software CAM (Fabricación asistida por computador).
+              p.mb-0 Se elaboran mediante <em>software</em> asistido por computador y software CAM (Fabricación asistida por computador).
             .tarjeta.color-acento-contenido--borde.p-4(titulo="Manuales de servicio")
               h3 Manuales de servicio
               p.mb-0 Es un documento elaborado a partir de otros documentos técnicos (planos esquemáticos, planos mecánicos de ensamble, entre otros). Adicionalmente incluye información asociada al proceso de mantenimiento del producto electrónico.

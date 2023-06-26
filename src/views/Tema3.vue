@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 3
       h1 Métodos de diseño de producto electrónicos
-    p(data-aos="fade-down").mb-3 El desarrollo de un producto electrónico debe entenderse como la realización de un proyecto investigativo y como tal debe plantearse teniendo en cuenta una metodología clara que permita identificar un problema o necesidad a solucionar, mediante el planteamiento de objetivos que fijarán la meta y el resultado final del proyecto, tal como se presenta en la figura 3.
+    p(data-aos="fade-down").mb-3 El desarrollo de un producto electrónico debe entenderse como la realización de un proyecto investigativo y como tal debe plantearse teniendo en cuenta una metodología clara que permita identificar un problema o necesidad a solucionar, mediante el planteamiento de objetivos que fijarán la meta y el resultado final del proyecto, tal como se presenta en la figura 8.
     
     .row.mt-3.mb-3
       .titulo-sexto.color-acento-contenido.mb-3.offset-lg-2(data-aos="fade-left")

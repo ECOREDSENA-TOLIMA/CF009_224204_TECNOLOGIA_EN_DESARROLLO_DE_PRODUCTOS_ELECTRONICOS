@@ -164,7 +164,7 @@ export default {
         },
         {
           nombre: 'Norma Constanza Morales Cruz',
-          cargo: 'Responsable de línea de producción',
+          cargo: 'Responsable de Línea de Producción',
           centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
@@ -180,7 +180,7 @@ export default {
         },
         {
           nombre: 'Miroslava González Hernández ',
-          cargo: 'Diseñador y evaluador instruccional ',
+          cargo: 'Diseñador y Evaluador Instruccional ',
           centro: 'Regional Distrito Capital Centro de Gestión Industrial ',
         },
         {
@@ -191,13 +191,13 @@ export default {
         {
           nombre: 'Rafael Neftalí Lizcano Reyes ',
           cargo:
-            'Responsable equipo de Desarrollo Curricular Ecosistema de Recursos Educativos Digitales ',
+            'Responsable Equipo de Desarrollo Curricular Ecosistema de Recursos Educativos Digitales ',
           centro:
             'Regional Santander Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Jhon Jairo Rodríguez Pérez ',
-          cargo: 'Corrector de estilo ',
+          cargo: 'Corrector de Estilo ',
           centro: 'Regional Distrito Capital Centro de Diseño y Metrología',
         },
         {
@@ -227,7 +227,7 @@ export default {
         },
         {
           nombre: 'Nelson Iván Vera Briceño',
-          cargo: 'Producción audiovisual',
+          cargo: 'Producción Audiovisual',
           centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
@@ -247,12 +247,12 @@ export default {
       autores: [
         {
           nombre: 'Javier Mauricio Oviedo',
-          cargo: 'Validación y vinculación en plataforma LMS',
+          cargo: 'Validación y Vinculación en Plataforma LMS',
           centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
           nombre: 'Gilberto Naranjo Farfán',
-          cargo: 'Validación de contenidos accesibles',
+          cargo: 'Validación de Contenidos Accesibles',
           centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
