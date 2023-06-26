@@ -72,7 +72,7 @@
           h4.mb-2 Las especificaciones dan una descripción precisa de lo que el producto tiene que hacer. Son la traducción de las necesidades del cliente en términos técnicos. Los objetivos de las especificaciones se establecen claramente en el proceso y representan las expectativas del equipo de desarrollo.” 
           span - (Ulrich, K. T, 2013).
     br      
-    p(data-aos="fade-down").mb-5 Es importante que la definición de los requerimientos del producto a desarrollar sea clara. La siguiente figura 1 presenta un procedimiento sugerido para la definición de los requerimientos.
+    p(data-aos="fade-down").mb-5 Es importante que la definición de los requerimientos del producto a desarrollar sea clara. La siguiente figura 3 presenta un procedimiento sugerido para la definición de los requerimientos.
     .row.justify-content-center.align-items-center
       .col-lg-10(data-aos="fade-down")
         .titulo-sexto.color-acento-contenido.mb-3

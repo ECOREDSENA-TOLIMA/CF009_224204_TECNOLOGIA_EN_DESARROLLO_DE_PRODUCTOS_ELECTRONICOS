@@ -266,7 +266,7 @@
       .col-4(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/tema4/img5.png", alt="alt", style="width:450px;").m-auto
-    p(data-aos="fade-right").mb-3.mt-5 Otro método cualitativo de valoración de un prototipo electrónico, de acuerdo con Sarraipa, J., Artífcie, A, Jiménez, H. (2019), es el creado en el Tamarack Institute en Canadá en el año 2019; el cual consta de cinco pasos importantes, ver figura 6.
+    p(data-aos="fade-right").mb-3.mt-5 Otro método cualitativo de valoración de un prototipo electrónico, de acuerdo con Sarraipa, J., Artífcie, A, Jiménez, H. (2019), es el creado en el Tamarack Institute en Canadá en el año 2019; el cual consta de cinco pasos importantes, ver figura 12.
     
     .row.mb-3.mt-3.justify-content-center.align-items-center
       .titulo-sexto.color-acento-contenido.mb-3.offset-lg-2(data-aos="fade-left")

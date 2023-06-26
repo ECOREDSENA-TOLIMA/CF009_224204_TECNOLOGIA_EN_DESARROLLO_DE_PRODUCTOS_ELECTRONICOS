@@ -55,7 +55,7 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 En la fabricación de circuitos impresos, por ejemplo, el tamaño de las pistas conductoras limita las capacidades de fabricación ya que el proceso mismo implica una mayor precisión y detalle cuando se requieren tamaños y espacios entre los elementos conductores mucho más pequeños.
     br
-    p(data-aos="fade-down").mb-5 De igual manera sucede con el número de capas en una tarjeta electrónica (planos de pistas conductoras que sirven para interconectar los componentes electrónicos dentro de una tarjeta electrónica) cuando se requiere de más de dos capas el proceso se puede ver limitado a nivel local y es posible se tenga que recurrir a un fabricante internacional que esté en la capacidad de hacerlo. En la siguiente figura 2 se puede apreciar los elementos que conforman una placa de circuito impreso.
+    p(data-aos="fade-down").mb-5 De igual manera sucede con el número de capas en una tarjeta electrónica (planos de pistas conductoras que sirven para interconectar los componentes electrónicos dentro de una tarjeta electrónica) cuando se requiere de más de dos capas el proceso se puede ver limitado a nivel local y es posible se tenga que recurrir a un fabricante internacional que esté en la capacidad de hacerlo. En la siguiente figura 7 se puede apreciar los elementos que conforman una placa de circuito impreso.
     
     .row.mt-3.mb-3
       .titulo-sexto.color-acento-contenido.mb-3.offset-lg-2(data-aos="fade-left")

@@ -84,7 +84,7 @@
             .col-lg-11
               p(data-aos="fade-up").mb-3.p-2 Dicho esto, un producto electrónico siempre llevará al análisis de garantías, funcionamiento y rentabilidad en el mercado.
 
-    p(data-aos="fade-left").mb-3.mt-5 Entre la finalidad que se busca de la vigilancia tecnológica, será necesario evaluar permanentemente entre otros factores los siguientes, ver figura 8:
+    p(data-aos="fade-left").mb-3.mt-5 Entre la finalidad que se busca de la vigilancia tecnológica, será necesario evaluar permanentemente entre otros factores los siguientes, ver figura 15:
 
     .row.mb-3.mt-3
       .titulo-sexto.color-acento-contenido.mb-3.offset-lg-2(data-aos="fade-left")
