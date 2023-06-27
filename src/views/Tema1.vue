@@ -58,7 +58,7 @@
               h3 Planos mecánicos
               p.mb-0 Son documentos técnicos de la pieza diseñada, como por ejemplo la documentación gráfica necesaria para la fabricación de los elementos mecánicos en máquinas de control numérico y centros de mecanizado; adicionalmente, forma parte de dicha documentación técnica los planos de despiece y ensamble, planos de vistas 2D y 3D.
               br
-              p.mb-0 Se elaboran mediante <em>software</em> asistido por computador y software CAM (Fabricación asistida por computador).
+              p.mb-0 Se elaboran mediante <em>software</em> asistido por computador y <em>software CAM</em> (Fabricación asistida por computador).
             .tarjeta.color-acento-contenido--borde.p-4(titulo="Manuales de servicio")
               h3 Manuales de servicio
               p.mb-0 Es un documento elaborado a partir de otros documentos técnicos (planos esquemáticos, planos mecánicos de ensamble, entre otros). Adicionalmente incluye información asociada al proceso de mantenimiento del producto electrónico.
@@ -76,7 +76,7 @@
     .row.justify-content-center.align-items-center
       .col-lg-10(data-aos="fade-down")
         .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 3. Procedimiento de definición de requerimientos
+          p.titulo.pb-0.mb-0 <b>Figura 3.</b> <i>Procedimiento de definición de requerimientos</i>
         figure
           img(src='@/assets/curso/temas/tema1/img3.jpg', alt='Procedimiento para definición de requerimientos')
 </template>

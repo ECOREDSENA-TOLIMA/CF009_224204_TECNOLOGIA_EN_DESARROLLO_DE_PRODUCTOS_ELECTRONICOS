@@ -47,7 +47,7 @@
     p(data-aos="fade-right").mb-3 Finalmente, los protocolos de atención al cliente tanto interno como externo son herramientas que facilitan la buena comunicación y que permiten que la información suministrada a los clientes se entregue de manera uniforme y sin contratiempos. Por lo tanto, es indispensable para una empresa que exista un protocolo de atención al cliente y que todos sus colaboradores lo conozcan. En el siguiente video se expone todo lo que un protocolo debe contener.
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/M0WqQBa3sRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Leyenda del video
 </template>
 

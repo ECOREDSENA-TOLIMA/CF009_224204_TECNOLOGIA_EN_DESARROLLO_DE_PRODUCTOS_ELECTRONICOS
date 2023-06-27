@@ -29,9 +29,9 @@
         .bloque-texto-g__texto.p-4
           p.mb-0 Por tal razón para una empresa es importante tener bien organizada y gestionada la información y documentación, ya que representa su bien intangible más valioso y en la mayoría de los casos hace parte del <i>know how</i> de la misma.
     
-    p(data-aos="fade-down").mb-3.mt-3 Cada etapa involucrada en el proceso de diseño y desarrollo de un producto electrónico genera documentación muy variada, por ejemplo en la etapa de diagramación de la placa de circuito impreso se pueden obtener archivos esquemáticos, lista de materiales, archivos de fabricación, entre otros, mientras que en la etapa de modelamiento mecánico los archivos que se pueden obtener son planos mecánicos y estructurales, archivos de fabricación mecánica, entre otros. 
+    p(data-aos="fade-down").mb-3.mt-3 En el proceso de diseño y desarrollo de un producto electrónico, cada etapa genera una amplia variedad de documentación. En la etapa de diagramación de la placa de circuito impreso, por ejemplo, se pueden obtener archivos esquemáticos, listas de materiales y archivos de fabricación, entre otros. Por otro lado, en la etapa de modelamiento mecánico, se pueden generar planos mecánicos y estructurales, así como archivos de fabricación mecánica, entre otros. En resumen, cada etapa del proceso de desarrollo de un producto electrónico implica la producción de documentación específica y valiosa, que debe ser gestionada y organizada adecuadamente para su uso posterior en la fabricación, pruebas y mantenimiento del producto final.
     
-    p(data-aos="fade-up").mb-5.mt-3 A continuación se pueden observar diferentes tipos de documentos presentes en el desarrollo de un producto electrónico.
+    p(data-aos="fade-up").mb-5.mt-3 A continuación, se pueden observar diferentes tipos de documentos presentes en el desarrollo de un producto electrónico.
     
     .tarjeta.tarjeta-gris.p-4.mb-5(data-aos="fade-right")
       SlyderC.mb-3(:datos="datosSlyder")
