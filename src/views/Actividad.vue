@@ -11,13 +11,13 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Determinación de especificaciones según requerimientos del producto electrónico.
-        p.mb-4 #[b Objetivo] Conocer el grado de apropiación de algunos conceptos relevantes en el desarrollo de la temática del Componente CF09
+        p.mb-4 #[b Objetivo] Conocer el grado de apropiación de algunos conceptos relevantes en el desarrollo de la temática del componente.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Actividad Opción Multiple
+              p.fw-bold.mb-0 Opción múltiple
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/AD/actividad.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
                 

@@ -71,7 +71,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema5/img3.svg')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p.mb-0 Esto ha permitido la reinvención de las ocupaciones en una empresa, pues ya no se capacita en una técnica manual, por el contrario se le instruye al personal técnico en el uso y operación de la maquinaria o sistemas robotizados que optimizan la labor dentro del puesto de trabajo.
+          p.mb-0 Esto ha permitido la reinvención de las ocupaciones en una empresa, pues ya no se capacita en una técnica manual, por el contrario, se le instruye al personal técnico en el uso y operación de la maquinaria o sistemas robotizados que optimizan la labor dentro del puesto de trabajo.
           
     p(data-aos="fade-right").mb-3.mt-3 Teniendo en cuenta la necesidad de garantizar la propuesta de valor que se describe con el diseño y desarrollo del producto electrónico, se hace necesaria la revisión tecnológica, que permite no sólo la verificación del funcionamiento del prototipo, sino su comportamiento y validación en el mercado; de tal manera, que se hace necesaria la autoverificación constante, con respecto a los demás productos electrónicos similares que puedan existir en el mercado actual.
     

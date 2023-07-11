@@ -19,7 +19,7 @@
             .col-sm-2
               img(src="@/assets/curso/temas/tema4/img2.svg")
             .col-sm-10
-              p.mb-0.text-small(data-aos="fade-up") Una vez se hayan realizado los ajustes al concepto inicial del producto a través del análisis, la verificación y validación, se definen las especificaciones finales del producto a desarrollar y se inicia con las demás actividades, que forman parte de la maduración del concepto en el desarrollo de un producto electrónico.
+              p.mb-0.text-small(data-aos="fade-up") Una vez alcanzada la etapa de diseño de un prototipo electrónico, vale la pena valorar la fase de desarrollo, teniendo en cuenta los diferentes criterios del producto, fundamentados en los objetivos que se quieren alcanzar. Dicha valoración, puede realizarse de manera cuantitativa. En la siguiente tabla 1 se presenta el modelo de un formato empleado por la unión europea.
       
       .col-12.titulo-sexto.color-acento-contenido.mt-5.offset-lg-2
         p.titulo.pb-0.mb-0 <b>Tabla 1.</b> Formato modelo de evaluación cuantitativa
@@ -173,7 +173,7 @@
               td Barreras de entrada
               td
               td
-      figcaption Nota. Adaptada de de Sarraipa, J., Artífcie, A, Jiménez, H. (2019). 
+      figcaption Nota. Adaptada de Sarraipa, J., Artífcie, A, Jiménez, H. (2019). 
     p(data-aos="fade-right").mb-3 Cuando se diseña un prototipo electrónico, no solo se debe tener en cuenta su funcionamiento en condiciones normales, sino también se deben tener en cuenta todos los factores que permitan proteger el producto contra cualquier falla por condiciones externas.
     p(data-aos="fade-left").mb-3 Según la IEC 60204-1, Capítulo 7, los efectos dañinos que pueden presentarse en un producto electrónico son los siguientes, ver figura 10.
     

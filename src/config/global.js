@@ -116,13 +116,6 @@ export default {
       link:
         'https://acacia.red/wp-content/uploads/2019/07/Gu%C3%ADa-Metodologi%CC%81a-de-evaluaci%C3%B3n-de-prototipo-innovador.pdf',
     },
-    {
-      tema: 'Diseño y desarrollo de productos',
-      referencia:
-        'Ulrich, K. T.,   Eppinger, S. D.(2013). Diseño y desarrollo de productos. McGraw-Hill. https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=281',
-      tipo: 'Libro',
-      link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=281',
-    },
   ],
   glosario: [
     {
@@ -155,7 +148,7 @@ export default {
     {
       referencia:
         'Ulrich, K. T.,   Eppinger, S. D.(2013). Diseño y desarrollo de productos. McGraw-Hill.',
-      link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=281',
+      link: '',
     },
   ],
   creditos: [
@@ -178,35 +171,29 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Ángela Rocío Sánchez Ruíz ',
-          cargo: 'Experto Técnico ',
+          nombre: 'Jaime Arley Delgado Rincón ',
+          cargo: 'Instructor ',
           centro:
-            'Regional Distrito Capital Centro de Electricidad,  Electrónica y Telecomunicaciones. ',
+            'Regional Distrito Capital Centro de Electricidad, Electrónica y Telecomunicaciones',
         },
         {
           nombre: 'Miroslava González Hernández ',
           cargo: 'Diseñador y Evaluador Instruccional ',
-          centro: 'Regional Distrito Capital Centro de Gestión Industrial ',
-        },
-        {
-          nombre: 'Sergio Augusto Ardila Cortes',
-          cargo: 'Diseñador Instruccional',
-          centro: 'Regional Tolima Centro de Comercio y Servicios',
-        },
-        {
-          nombre: 'Rafael Neftalí Lizcano Reyes ',
-          cargo:
-            'Responsable Equipo de Desarrollo Curricular Ecosistema de Recursos Educativos Digitales ',
-          centro:
-            'Regional Santander Centro Industrial del Diseño y la Manufactura',
+          centro: 'Regional Distrito Capital Centro de gestión industrial',
         },
         {
           nombre: 'Jhon Jairo Rodríguez Pérez ',
-          cargo: 'Corrector de Estilo ',
-          centro: 'Regional Distrito Capital Centro de Diseño y Metrología',
+          cargo: 'Diseñador y Evaluador Instruccional ',
+          centro:
+            'Regional Distrito Capital Centro para la Industria de la Comunicación Gráfica',
         },
         {
-          nombre: 'Viviana Esperanza Herrera Qiñonez',
+          nombre: 'Juan Gilberto Giraldo Cortés',
+          cargo: 'Diseñador Instruccional ',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Viviana Esperanza Herrera Quiñonez',
           cargo: 'Asesora Metodológica',
           centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
@@ -216,28 +203,28 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'José Jaime Luis Tang Pinzón',
+          nombre: 'Aruzidna Sánchez Alonso',
           cargo: 'Diseñador Web',
           centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Sebastian Trujillo Afanador',
+          nombre: 'Francisco Javier Vásquez Suárez',
           cargo: 'Desarrollador Fullstack',
           centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
           nombre: 'Gilberto Junior Rodríguez Rodríguez',
           cargo: 'Storyboard e Ilustración',
-          centro: 'Regional Tolima Centro de Comercio y Servicios',
+          centro: '',
         },
         {
           nombre: 'Nelson Iván Vera Briceño',
-          cargo: 'Producción Audiovisual',
+          cargo: 'Producción audiovisual',
           centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
           nombre: 'Oleg Litvin',
-          cargo: 'Animador ',
+          cargo: 'Animador',
           centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {

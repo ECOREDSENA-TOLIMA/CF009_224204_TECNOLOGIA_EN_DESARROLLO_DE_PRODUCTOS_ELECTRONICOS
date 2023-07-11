@@ -29,7 +29,7 @@
         .bloque-texto-g__texto.p-4
           p.mb-0 Las encuestas son un tipo de documentación que permite establecer oportunidades mediante la recolección de información e identificación de necesidades latentes en el mercado para el desarrollo de un nuevo producto.
     
-    p.mb-0 Dentro de la documentación técnica generada en el desarrollo de productos electrónicos se destacan los derivados de la etapa de diseño y producción; planos esquemáticos, lista de materiales, dibujo mecánico, archivos de fabricación electrónica y mecánica, archivos de ensamble electrónico y mecánico entre otros. La elaboración de esta documentación se realiza mediante <em>software</em> especializado CAD/CAM que facilita el proceso. A continuación se explica brevemente la documentación técnica más relevante en procesos de desarrollo de productos electrónicos.
+    p.mb-0 Dentro de la documentación técnica generada en el desarrollo de productos electrónicos se destacan los derivados de la etapa de diseño y producción; planos esquemáticos, lista de materiales, dibujo mecánico, archivos de fabricación electrónica y mecánica, archivos de ensamble electrónico y mecánico entre otros. La elaboración de esta documentación se realiza mediante <em>software</em> especializado CAD/CAM que facilita el proceso. A continuación, se explica brevemente la documentación técnica más relevante en procesos de desarrollo de productos electrónicos.
     br
     TabsA.color-acento-contenido(data-aos="fade-right")
             .tarjeta.color-acento-contenido--borde.p-5(titulo="Orden de trabajo")
@@ -43,7 +43,7 @@
               br
               p.mb-0 En otras palabras, un plano esquemático es un dibujo elaborado a partir de la simbología de los componentes electrónicos que permiten su análisis e interpretación funcional.
               br
-              p.mb-0 Se elaboran mediante un software de diseño asistido por computador aunque también se pueden elaborar a mano.
+              p.mb-0 Se elaboran mediante un software de diseño asistido por computador, aunque también se pueden elaborar a mano.
             .tarjeta.color-acento-contenido--borde.p-4(titulo="Lista de materiales (BOM list)")
               h3 Lista de materiales (BOM list)
               p.mb-0 La lista de materiales electrónicos es un documento técnico necesario para el ensamble de la tarjeta electrónica; sirve además de insumo para la compra de los materiales.
@@ -70,7 +70,7 @@
         .bloque-texto-c.cajon-tema1.color-primario.p-4
           i.fas.fa-quote-right
           h4.mb-2 Las especificaciones dan una descripción precisa de lo que el producto tiene que hacer. Son la traducción de las necesidades del cliente en términos técnicos. Los objetivos de las especificaciones se establecen claramente en el proceso y representan las expectativas del equipo de desarrollo.” 
-          span - (Ulrich, K. T, 2013).
+          span Ulrich (2013). 
     br      
     p(data-aos="fade-down").mb-5 Es importante que la definición de los requerimientos del producto a desarrollar sea clara. La siguiente figura 3 presenta un procedimiento sugerido para la definición de los requerimientos.
     .row.justify-content-center.align-items-center
