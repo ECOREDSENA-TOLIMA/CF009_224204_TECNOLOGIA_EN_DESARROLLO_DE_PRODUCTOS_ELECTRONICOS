@@ -215,7 +215,7 @@ export default {
         {
           nombre: 'Gilberto Junior Rodríguez Rodríguez',
           cargo: 'Storyboard e Ilustración',
-          centro: '',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
           nombre: 'Nelson Iván Vera Briceño',
