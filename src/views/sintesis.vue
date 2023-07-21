@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
     
-    p.mb-3.mt-3 A continuación, se describe el tema principal del componente formativo determinación de especificaciones según requerimientos del producto electrónico, por medio de la concepción y materialización de una idea en un producto electrónico, la cual surge mediante el proceso de identificación de oportunidades y necesidades, provista por una población o un sector específico. A partir de estas especificaciones, a lo largo del proceso de desarrollo, se irán refinando hasta alcanzar el producto final. 
+    p.mb-3.mt-3 A continuación, se describe el tema principal del componente formativo Determinación de especificaciones según requerimientos del producto electrónico, por medio de la concepción y materialización de una idea en un producto electrónico, la cual surge mediante el proceso de identificación de oportunidades y necesidades, provista por una población o un sector específico. A partir de estas especificaciones, a lo largo del proceso de desarrollo, se irán refinando hasta alcanzar el producto final. 
 
     .row.justify-content-center
       .col-lg-10.mb-5
