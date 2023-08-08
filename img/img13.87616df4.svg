@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88" height="88" viewBox="0 0 88 88">
+  <defs>
+    <filter id="Elipse_7915" x="0" y="0" width="88" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_952670" data-name="Grupo 952670" transform="translate(-2702.535 8793.848)">
+    <g transform="matrix(1, 0, 0, 1, 2702.54, -8793.85)" filter="url(#Elipse_7915)">
+      <circle id="Elipse_7915-2" data-name="Elipse 7915" cx="35" cy="35" r="35" transform="translate(9 6)" fill="#00cca7"/>
+    </g>
+    <g id="conector-usb" transform="translate(2670.777 -8831.235)">
+      <path id="rect4169-3" d="M90.709,66.839H106.6v8.17H90.709Z" transform="translate(-38.084 -9.173)" fill="rgba(255,246,157,0.99)" fill-rule="evenodd"/>
+      <path id="path4161-6" d="M312.386,106.8a10.611,10.611,0,1,1-10.611-10.611A10.611,10.611,0,0,1,312.386,106.8Z" transform="translate(-209.826 -34.323)" fill="#ef5350" fill-rule="evenodd"/>
+      <path id="path4163-7" d="M292.6,85.48a12.146,12.146,0,1,0,12.145,12.146A12.169,12.169,0,0,0,292.6,85.48Zm0,3.068a9.078,9.078,0,1,1-9.077,9.078A9.055,9.055,0,0,1,292.6,88.548Z" transform="translate(-200.65 -25.144)" fill-rule="evenodd"/>
+      <path id="path4172-5" d="M77.163,134.964l-4.342-11.088H93.84L89.5,134.964Z" transform="translate(-22.758 -58.041)" fill="#b0bec5" fill-rule="evenodd"/>
+      <path id="path4236-6-6" d="M135.48,201.293v30.327h3.068V201.293Z" transform="translate(-76.442 -124.369)" fill-rule="evenodd"/>
+      <path id="path4284-7-2" d="M81.529,56.132a1.534,1.534,0,0,0-1.534,1.534v8.169h3.068V59.2H95.89v6.635h3.068V57.666a1.534,1.534,0,0,0-1.534-1.534Z" transform="translate(-28.904)" fill-rule="evenodd"/>
+      <path id="path4234-3-1" d="M63.65,113.165a1.534,1.534,0,0,0-1.428,2.093l4.341,11.089a1.534,1.534,0,0,0,1.428.975H80.327a1.534,1.534,0,0,0,1.429-.975L86.1,115.258a1.534,1.534,0,0,0-1.429-2.093Zm2.249,3.068H82.421l-3.141,8.021H69.039Z" transform="translate(-13.587 -48.864)" fill-rule="evenodd"/>
+      <path id="path4449-3" d="M116.753,82.352a1.534,1.534,0,0,0-1.512,1.555v3.634a1.534,1.534,0,1,0,3.068,0V83.907a1.534,1.534,0,0,0-1.557-1.555Z" transform="translate(-59.102 -22.464)" fill-rule="evenodd"/>
+      <path id="path4363-6" d="M157.229,82.352a1.534,1.534,0,0,0-1.512,1.555v3.634a1.534,1.534,0,1,0,3.068,0V83.907a1.534,1.534,0,0,0-1.557-1.555Z" transform="translate(-93.781 -22.464)" fill-rule="evenodd"/>
+      <path id="path5357-0" d="M141.1,296.449a1.534,1.534,0,1,0,0,3.068h3.807a1.534,1.534,0,1,0,0-3.068Z" transform="translate(-79.945 -205.895)" fill-rule="evenodd"/>
+      <path id="path5364-6" d="M199.81,296.449a1.534,1.534,0,1,0,0,3.068H204.2a1.534,1.534,0,1,0,0-3.068Z" transform="translate(-130.243 -205.895)" fill-rule="evenodd"/>
+      <path id="path4874-2" d="M262.606,296.449a1.534,1.534,0,1,0,0,3.068H267a1.534,1.534,0,1,0,0-3.068Z" transform="translate(-184.045 -205.895)" fill-rule="evenodd"/>
+      <path id="path4878-1" d="M329.772,265.626a1.534,1.534,0,0,0-1.512,1.557v2.858H325.4a1.534,1.534,0,1,0,0,3.068h4.392a1.534,1.534,0,0,0,1.534-1.534v-4.393a1.534,1.534,0,0,0-1.557-1.557Z" transform="translate(-237.846 -179.487)" fill-rule="evenodd"/>
+      <path id="path4912-8" d="M47.814,402.315a1.534,1.534,0,1,0,0,3.068h56.972a1.534,1.534,0,1,0,0-3.068H47.814Z" transform="translate(0 -296.598)" fill-rule="evenodd"/>
+      <path id="path4930-7" d="M81.308,434.446a1.534,1.534,0,1,0,0,3.068h47.414a1.534,1.534,0,1,0,0-3.068H81.308Z" transform="translate(-28.715 -324.126)" fill-rule="evenodd"/>
+      <path id="path4638-7-3" d="M340.7,137.9a1.534,1.534,0,0,0-1.055.464l-6.169,6.169a1.534,1.534,0,1,0,2.169,2.169l6.169-6.169A1.534,1.534,0,0,0,340.7,137.9Z" transform="translate(-245.69 -70.056)" fill-rule="evenodd"/>
+      <path id="path5157-7" d="M334.4,137.9a1.534,1.534,0,0,0-1.07,2.634L339.5,146.7a1.534,1.534,0,1,0,2.169-2.169l-6.169-6.169A1.534,1.534,0,0,0,334.4,137.9Z" transform="translate(-245.559 -70.058)" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
